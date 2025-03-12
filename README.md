@@ -1,6 +1,6 @@
-## Hi there is york 👋
+## Hi this is york 👋
 
-a CS-majored student in CUHKsz
+a CS major undergraduate in CUHKSZ
 
 <!--
 **york-quq/york-quq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
